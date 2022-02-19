@@ -1,0 +1,18 @@
+h1.site-title {
+    text-align: center;
+    font-family: "Verdana", "Times New Roman", sans-serif;
+    font-size: 36px;
+}
+
+h1.recipe-title {    
+    font-family: "Times New Roman", "Times New Roman", sans-serif;
+    font-size: 32px;
+}
+
+.description {
+    font-style: italic;
+}
+
+.ingridient-element {
+    background-color: rgb(235, 235, 191);
+}
